@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(../img/background.jpg) center/cover no-repeat;
+  background: url(../img/background.jpg) center/cover no-repeat #4685eb67;
 }
 
 .clock {
