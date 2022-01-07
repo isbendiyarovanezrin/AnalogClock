@@ -25,7 +25,7 @@ body {
   border-radius: 50%;
   background-color: #0187d657;
   border: 0.5rem solid #04316e;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  box-shadow: #0000003d 0 0.3rem 0.8rem;
 }
 
 .clock-face {
@@ -37,7 +37,7 @@ body {
 .hand {
   left: 50%;
   position: absolute;
-  border-radius: 50px;
+  border-radius: 5rem;
   transform-origin: 50% 100%;
   background-color: #04316e;
 }

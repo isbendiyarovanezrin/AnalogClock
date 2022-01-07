@@ -1,3 +1,5 @@
+"use strict";
+
 const secondHand = document.querySelector(".second-hand");
 const minHand = document.querySelector(".min-hand");
 const hourHand = document.querySelector(".hour-hand");
@@ -20,10 +22,12 @@ ticktock();
 // cursor
 let cursor = document.getElementById("cursor");
 
-document.addEventListener("mousemove", (e) => {
+document.addEventListener("mousemove", changeCursor);
+
+function changeCursor(e) {
   let x = e.pageX;
   let y = e.pageY;
 
   cursor.style.left = `${x}px`;
   cursor.style.top = `${y}px`;
-});
+}
