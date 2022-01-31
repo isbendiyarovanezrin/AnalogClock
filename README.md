@@ -1,4 +1,11 @@
-<a href="https://isbendiyarovanezrin.github.io/AnalogClock">
+<div align="center">
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=JS%20and%20CSS&fontAlign=75&rotate=13&fontAlignY=18&desc=Analog%20Clock&descAlign=75&descAlignY=39 "Click Me!")
-</a>
+### Analog clock
+
+###### You can view the project [here](https://isbendiyarovanezrin.github.io/AnalogClock "Click me!⏳").
+
+##### Screenshot
+
+![Analog clock screenshot](https://i.postimg.cc/MH9xQL6n/clock.png)
+
+</div>
